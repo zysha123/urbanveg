@@ -5,9 +5,7 @@ urbanization_2001-2010: statistics for the urban growth and NPP flux changes for
 urbanization_2010-2019: statistics for the urban growth and NPP flux changes for each city during 2010(Y1)-2019(Y2)
 
 Each row in the tables represent result for a city during a period from a starting year (Y1) and ending year (Y2), and the headers for the table files are explained as following:
-
 yr_to_yr: starting year to ending year
-
 city_name: city name
 both_urban_area: the area that both years are urban (squre meters)
 both_nonUrban_area: area that both years are non-urban (squre meters)
