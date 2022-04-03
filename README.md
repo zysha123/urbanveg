@@ -4,9 +4,9 @@ py_code: python code computing the analysis based on Google Earth Engine (GEE) p
 
 urbanization_2001-2019: statistics for the urban growth and NPP flux changes for each city during 2001(Y1)-2019(Y2)
 
-urbanization_2001-2010: statistics for the urban growth and NPP flux changes for each city during 2001(Y1)-2010(Y2)
+urbanization_2001-2010: statistics for the urban growth and NPP flux changes for each city during the divided first sub-periods, 2001(Y1)-2010(Y2)
 
-urbanization_2010-2019: statistics for the urban growth and NPP flux changes for each city during 2010(Y1)-2019(Y2)
+urbanization_2010-2019: statistics for the urban growth and NPP flux changes for each city during the divided second sub-periods, 2010(Y1)-2019(Y2)
 
 Each row in the tables represent result for a city during a period from a starting year (Y1) and ending year (Y2), and the headers for the table files are explained as following:
 
